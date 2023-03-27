@@ -10,4 +10,4 @@ Após a análise exploratória, foram identificados possíveis problemas nos dad
 ## Conclusão
 Este projeto demonstrou a importância da análise de Churn em uma instituição financeira e como a preparação e análise exploratória dos dados pode fornecer informações valiosas para a tomada de decisões. Foram utilizadas diversas técnicas estatísticas e de tratamento de dados, que permitiram identificar possíveis problemas nos dados e propor soluções para melhorar a análise.
 ## Como utilizar
-Para utilizar este projeto, basta clonar este repositório e executar os notebooks contidos na pasta "notebooks". É necessário possuir as bibliotecas Python utilizadas no projeto instaladas em seu ambiente. Os dados utilizados no projeto estão disponíveis neste repositório.
+Para utilizar este projeto, basta clonar este repositório e executar o notebook nele contido. É necessário possuir as bibliotecas Python utilizadas no projeto instaladas em seu ambiente. Os dados utilizados no projeto estão disponíveis neste repositório.
